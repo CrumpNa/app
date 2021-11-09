@@ -57,5 +57,17 @@ Reviews -> list of reviews for searched movie/show
 
 
 Wireframe images:
+
 ![Screen Shot 2021-11-05 at 12 00 31 AM](https://user-images.githubusercontent.com/49080966/140839825-8c851e8b-733f-46b2-9004-16e3f7a47d55.png)
+![Screen Shot 2021-11-05 at 12 00 43 AM](https://user-images.githubusercontent.com/49080966/140839782-30cd776a-27ce-4689-a253-02e2678b61cf.png)
+
+
+
+![Screen Shot 2021-11-05 at 12 00 51 AM](https://user-images.githubusercontent.com/49080966/140839860-fda10cc5-3426-401f-9c19-c8f2b763ee6f.png)
+![Screen Shot 2021-11-05 at 12 00 58 AM](https://user-images.githubusercontent.com/49080966/140839911-1b505da1-da90-4906-9496-ec392a610d81.png)
+
+![Screen Shot 2021-11-05 at 12 01 15 AM](https://user-images.githubusercontent.com/49080966/140839884-147ec5f4-b61f-4e8a-bfdf-dbea7a25d148.png)
+
+![Screen Shot 2021-11-05 at 12 01 07 AM](https://user-images.githubusercontent.com/49080966/140839896-1be1542c-138f-4773-b81e-b16a334850e4.png)
+
 
