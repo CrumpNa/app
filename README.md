@@ -70,4 +70,11 @@ Wireframe images:
 
 ![Screen Shot 2021-11-05 at 12 01 07 AM](https://user-images.githubusercontent.com/49080966/140839896-1be1542c-138f-4773-b81e-b16a334850e4.png)
 
+### [BONUS] Digital Wireframes & Mockups
+
+![3F1AEB6F-7E12-4185-8D61-2AE894B1B243](https://user-images.githubusercontent.com/28194686/140852238-e9bfb2d2-94f0-4cf6-818b-a485ecbdaa22.jpeg)
+![DDDA5456-499D-4377-B17C-3BE8A059D869](https://user-images.githubusercontent.com/28194686/140852249-952f8da2-1966-4182-a2b8-6c60153fbc42.jpeg)
+![2C17AEE5-47D3-4CEC-B893-427E3291FAA8](https://user-images.githubusercontent.com/28194686/140852245-aa76dffc-2dd7-4f12-9d5d-74a84824e1c6.jpeg)
+
+
 
