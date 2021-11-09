@@ -1,4 +1,4 @@
-# app
+# Showzam app
 Unit 8 group milestone:
 Showzam
 
