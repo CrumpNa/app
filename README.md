@@ -57,5 +57,5 @@ Reviews -> list of reviews for searched movie/show
 
 
 Wireframe images:
-
+![Screen Shot 2021-11-05 at 12 00 31 AM](https://user-images.githubusercontent.com/49080966/140839825-8c851e8b-733f-46b2-9004-16e3f7a47d55.png)
 
