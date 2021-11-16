@@ -77,4 +77,8 @@ Wireframe images:
 ![2C17AEE5-47D3-4CEC-B893-427E3291FAA8](https://user-images.githubusercontent.com/28194686/140852245-aa76dffc-2dd7-4f12-9d5d-74a84824e1c6.jpeg)
 
 
+Data Model:
+
+![](images/Screen%20Shot%202021-11-15%20at%208.10.35%20PM.png)
+
 
