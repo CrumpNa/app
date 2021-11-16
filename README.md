@@ -81,4 +81,8 @@ Data Model:
 
 ![](images/Screen%20Shot%202021-11-15%20at%208.10.35%20PM.png)
 
+Network Requests:
+
+![](images/Screen%20Shot%202021-11-15%20at%208.19.04%20PM.png)
+
 
