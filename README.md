@@ -23,8 +23,10 @@ Market: all movie and show watchers
 Habit: users can subscribe to specific /top users because they want to know their personal opinion on movies . Users can interact with others based on 
 Product Spec
 
-Required User stories
+Required User stories:
+
 [ X ] user logins
+
 [ ] user searches the movie/show they are looking for
 -user can see reviews of the movie/show by other users
 -profile for users
