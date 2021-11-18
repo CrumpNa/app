@@ -25,12 +25,16 @@ Product Spec
 
 Required User stories:
 
-[ X ] user logins
+[ X ] user logs in 
 
 [ ] user searches the movie/show they are looking for
--user can see reviews of the movie/show by other users
--profile for users
--Optional stories
+
+[ ]user can see reviews of the movie/show by other users
+
+[ ]profile for users
+
+Optional stories~
+
 -based on genre or specific movie/show users can join a chat discussion
 
 
