@@ -1,5 +1,4 @@
 # Showzam app
-Unit 8 group milestone:
 Showzam
 
 Table of Contents
@@ -25,13 +24,14 @@ Product Spec
 
 Required User stories:
 
-[x] user logs in 
 
-[] user searches the movie/show they are looking for
+- [x] user **logs in**
 
-[]user can see reviews of the movie/show by other users
+- [ ] user searches the movie/show they are looking for
 
-[]profile for users
+- [ ] user can see reviews of the movie/show by other users
+
+- [ ] profile for users
 
 Optional stories~
 
