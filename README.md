@@ -25,13 +25,13 @@ Product Spec
 
 Required User stories:
 
-[ X ] user logs in 
+[x] user logs in 
 
-[ ] user searches the movie/show they are looking for
+[] user searches the movie/show they are looking for
 
-[ ]user can see reviews of the movie/show by other users
+[]user can see reviews of the movie/show by other users
 
-[ ]profile for users
+[]profile for users
 
 Optional stories~
 
