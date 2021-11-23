@@ -43,4 +43,5 @@ public class HomeFragment extends Fragment {
         btnSearch = view.findViewById(R.id.btnSearch);
         ivMovie = view.findViewById(R.id.ivMovie);
     }
+    //check
 }
