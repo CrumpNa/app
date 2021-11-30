@@ -25,11 +25,10 @@
         android:layout_height="wrap_content"
         android:text="                                        Welcome to Showzam! " />
 
-    <ImageView
-        android:id="@+id/ivMovie"
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rvMovie"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        tools:srcCompat="@tools:sample/avatars" />
+        android:layout_height="match_parent" />
 
 
 </LinearLayout>
